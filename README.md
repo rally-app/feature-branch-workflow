@@ -1,4 +1,2 @@
-feature-branch-workflow
-=======================
-
-Practice repo for feature branch workflow.
+# Feature Branch Workflow Practice Repository
+_Boom_
