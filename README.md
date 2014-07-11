@@ -1,4 +1,4 @@
-feature-branch-workflot
+feature-branch-workflow
 =======================
 
 Practice repo for feature branch workflow.
