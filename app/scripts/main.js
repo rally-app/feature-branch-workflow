@@ -16,3 +16,7 @@ $(document).ready(function () {
     'use strict';
     FeatureBranchWorkflow.init();
 });
+
+var nickBottomley = function(joke){
+    return joke;
+}
