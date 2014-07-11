@@ -2,10 +2,10 @@
 
 
 window.FeatureBranchWorkflow = {
-    Models: {},
-    Collections: {},
-    Views: {},
-    Routers: {},
+    Models: {Event},
+    Collections: {Events},
+    Views: {EventView},
+    Routers: {EventRouter},
     init: function () {
         'use strict';
         console.log('Hello from Backbone!');
