@@ -2,7 +2,7 @@
 
 
 window.FeatureBranchWorkflow = {
-    Models: {Event},
+    Models: {Event, AnotherEvent},
     Collections: {Events},
     Views: {EventView},
     Routers: {EventRouter},
