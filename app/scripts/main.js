@@ -18,5 +18,6 @@ $(document).ready(function () {
 });
 
 var nickBottomley = function(joke){
+    console.log( "another thing" );
     return joke;
 }
